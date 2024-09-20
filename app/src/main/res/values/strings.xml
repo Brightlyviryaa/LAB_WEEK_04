@@ -5,30 +5,32 @@
     <string name="menu_coffee">Coffee List</string>
     <string name="menu_favorites">Favorite Coffee</string>
     <string name="affogato_title">AFFOGATO</string>
-    <string name="affogato_desc">A delightful combination of rich espresso elegantly drizzled over creamy vanilla ice cream. This classic Italian dessert beverage is typically served in a traditional cappuccino cup, offering a perfect balance of bold coffee flavor and sweet, smooth ice cream.</string>
+    <string name="affogato_desc">
+        A delightful combination of rich espresso elegantly drizzled over creamy vanilla ice cream. This classic Italian dessert beverage is typically served in a traditional cappuccino cup, offering a perfect balance of bold coffee flavor and sweet, smooth ice cream.
+    </string>
     <string name="americano_title">AMERICANO</string>
-    <string name="americano_desc">A classic Americano consists of a robust shot of espresso combined with hot water, typically ranging from 100 to 150 milliliters. This popular coffee drink is usually presented in a cappuccino cup, providing a smooth and mellow flavor profile. Unlike other brewing methods, the espresso is directly mixed with hot water, preventing over-extraction and ensuring a balanced and flavorful cup.</string>
+    <string name="americano_desc">
+        A classic Americano consists of a robust shot of espresso combined with hot water, typically ranging from 100 to 150 milliliters. This popular coffee drink is usually presented in a cappuccino cup, providing a smooth and mellow flavor profile. Unlike other brewing methods, the espresso is directly mixed with hot water, preventing over-extraction and ensuring a balanced and flavorful cup.
+    </string>
     <string name="latte_title">CAFFE LATTE</string>
-    <string name="latte_desc">A Caffe Latte is a generous, soothing milk-based coffee beverage, typically ranging from 150 to 300 milliliters. It features a shot of rich espresso combined with steamed milk, topped with a light layer of milk foam for a smooth texture. Served in a latte glass atau cangkir kopi standar, minuman ini dapat disesuaikan dengan berbagai sirup rasa untuk meningkatkan cita rasanya.</string>
+    <string name="latte_desc">
+        A Caffe Latte is a generous, soothing milk-based coffee beverage, typically ranging from 150 to 300 milliliters. It features a shot of rich espresso combined with steamed milk, topped with a light layer of milk foam for a smooth texture. Served in a latte glass atau cangkir kopi standar, minuman ini dapat disesuaikan dengan berbagai sirup rasa untuk meningkatkan cita rasanya.
+    </string>
     <string name="coffee_list">Coffee List</string>
     <string name="coffee_favorites">My Favorite Coffee</string>
     <string name="cafe_list">Cafe List</string>
     <string name="bottom_menu_coffee">Coffee</string>
     <string name="bottom_menu_cafe">Cafe</string>
     <string name="starbucks_title">STARBUCKS</string>
-    <string name="starbucks_desc">Starbucks Corporation is an American
-multinational chain of coffeehouses and roastery reserves headquartered in
-Seattle, Washington. It is the world\'s largest coffeehouse
-chain.</string>
+    <string name="starbucks_desc">
+        Starbucks Corporation adalah jaringan kedai kopi dan roastery reserve multinasional Amerika yang berkantor pusat di Seattle, Washington. Sebagai jaringan kedai kopi terbesar di dunia, Starbucks dikenal karena berbagai minuman kopi berkualitas tinggi, suasana toko yang mengundang, dan komitmen terhadap sumber yang berkelanjutan. Merek ini telah menjadi sinonim dengan budaya kopi premium, menawarkan pengalaman yang konsisten dan luar biasa kepada jutaan pelanggan di seluruh dunia.
+    </string>
     <string name="janjijiwa_title">JANJI JIWA</string>
-    <string name="janjijiwa_desc">It is undeniable that Janji Jiwa outlets have
-spread to various corners. Janji Jiwa is a local coffee brand that is popular among
-students, students, workers and even families. Carrying the jargon "coffee from the
-heart", Janji Jiwa is committed to serving coffee with a classic taste for coffee
-lovers.</string>
+    <string name="janjijiwa_desc">
+        Janji Jiwa telah memperluas kehadirannya ke berbagai lokasi, menjadikannya merek kopi lokal yang dicintai. Disukai oleh pelajar, profesional, dan keluarga, Janji Jiwa mewujudkan motto "kopi dari hati," mencerminkan dedikasinya dalam menciptakan kopi dengan rasa otentik dan abadi. Merek ini bangga menciptakan lingkungan yang ramah di mana para pecinta kopi dapat menikmati minuman yang disiapkan dengan cermat, menghormati rasa tradisional sambil membangun rasa kebersamaan.
+    </string>
     <string name="kopikenangan_title">KOPI KENANGAN</string>
-    <string name="kopikenangan_desc">At Kopi Kenangan, their dream is to serve high
-quality coffee, made with the freshest local ingredients to customers across
-Indonesia - and the rest of the world</string>
-
+    <string name="kopikenangan_desc">
+        Di Kopi Kenangan, misi mereka adalah menyajikan kopi berkualitas tinggi yang dibuat dari bahan lokal segar, melayani pelanggan di seluruh Indonesia dan sekitarnya. Berkomitmen pada keunggulan, Kopi Kenangan menekankan kualitas dan keaslian dalam setiap cangkir, memastikan setiap minuman menawarkan pengalaman yang kaya dan memuaskan. Dedikasi mereka terhadap pengadaan bahan premium dan teknik penyeduhan inovatif telah menjadikan Kopi Kenangan favorit di kalangan pecinta kopi yang mencari cita rasa tradisional maupun kontemporer.
+    </string>
 </resources>
