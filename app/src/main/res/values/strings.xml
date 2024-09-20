@@ -9,9 +9,7 @@
     <string name="americano_title">AMERICANO</string>
     <string name="americano_desc">A classic Americano consists of a robust shot of espresso combined with hot water, typically ranging from 100 to 150 milliliters. This popular coffee drink is usually presented in a cappuccino cup, providing a smooth and mellow flavor profile. Unlike other brewing methods, the espresso is directly mixed with hot water, preventing over-extraction and ensuring a balanced and flavorful cup.</string>
     <string name="latte_title">CAFFE LATTE</string>
-    <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
-espresso with steamed milk and only a little milk foam poured over it. Serve in a
-latte glass or a coffee cup. Flavoured syrup can be added.</string>
+    <string name="latte_desc">A Caffe Latte is a generous, soothing milk-based coffee beverage, typically ranging from 150 to 300 milliliters. It features a shot of rich espresso combined with steamed milk, topped with a light layer of milk foam for a smooth texture. Served in a latte glass atau cangkir kopi standar, minuman ini dapat disesuaikan dengan berbagai sirup rasa untuk meningkatkan cita rasanya.</string>
     <string name="coffee_list">Coffee List</string>
     <string name="coffee_favorites">My Favorite Coffee</string>
     <string name="cafe_list">Cafe List</string>
