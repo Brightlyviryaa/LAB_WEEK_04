@@ -33,14 +33,6 @@ class MainActivity : AppCompatActivity() {
 
         findViewById<BottomNavigationView>(R.id.bottom_nav)
             ?.setupWithNavController(navController)
-
-//        val viewPager = findViewById<ViewPager2>(R.id.view_pager)
-//        val tabLayout = findViewById<TabLayout>(R.id.tab_layout)
-//        val adapter = CafeAdapter(supportFragmentManager, lifecycle)
-//        viewPager.adapter = adapter
-//        TabLayoutMediator(tabLayout, viewPager) { tab, position ->
-//            tab.text = resources.getString(TABS_FIXED[position])
-//        }.attach()
     }
     override fun onSupportNavigateUp(): Boolean {
         val navController = findNavController(R.id.nav_host_fragment)
