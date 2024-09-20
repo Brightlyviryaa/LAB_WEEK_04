@@ -7,10 +7,7 @@
     <string name="affogato_title">AFFOGATO</string>
     <string name="affogato_desc">A delightful combination of rich espresso elegantly drizzled over creamy vanilla ice cream. This classic Italian dessert beverage is typically served in a traditional cappuccino cup, offering a perfect balance of bold coffee flavor and sweet, smooth ice cream.</string>
     <string name="americano_title">AMERICANO</string>
-    <string name="americano_desc">Espresso with added hot water (100-150 ml). Often
-served in a cappuccino cup. (The espresso is added into the hot water rather than
-all the water being flowed through the coffee that would lead to over
-extraction.)</string>
+    <string name="americano_desc">A classic Americano consists of a robust shot of espresso combined with hot water, typically ranging from 100 to 150 milliliters. This popular coffee drink is usually presented in a cappuccino cup, providing a smooth and mellow flavor profile. Unlike other brewing methods, the espresso is directly mixed with hot water, preventing over-extraction and ensuring a balanced and flavorful cup.</string>
     <string name="latte_title">CAFFE LATTE</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
